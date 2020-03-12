@@ -1,0 +1,193 @@
+
+
+.main_button{
+  padding: 12px;
+ border: 3px solid #e0bf94;
+  color:#e0bf94;
+  text-decoration: none;
+  font-weight:bolder;
+    border-radius: 30px;
+}
+
+.main_button:hover {
+  color:#0f0829;
+  background-color:#e0bf94;
+  text-decoration: none;
+
+}
+
+
+
+h1{
+  color: #f2e9d3;
+  padding: 30px;
+  text-align: center;
+  font-family: Candara,sans-serif;
+text-decoration: none;
+    font-size: 80px;
+    font-weight:normal;
+}
+
+p.rating{
+  color:#5489dd;
+  font-family: Candara,sans-serif;
+text-decoration: none;
+    font-size: 18px;
+  font-weight:bolder;
+}
+
+p.nombreproducto{
+  padding-top: 40px;
+  color: #e0bf94;
+  font-family: Candara,sans-serif;
+text-decoration: none;
+    font-size: 25px;
+    font-weight:bold;
+}
+
+p.descripcionproducto{
+  color:#5489dd;
+  font-family: Candara,sans-serif;
+text-decoration: none;
+    font-size: 20px;
+  font-weight:bolder;
+
+}
+
+p.dimensionesproducto{
+  color:#5489dd;
+  font-family: Candara,sans-serif;
+text-decoration: none;
+  font-size: 18px;
+  font-weight:normal;
+
+}
+
+p.descripcionreviews{
+    color:#5489dd;
+  font-weight:100;
+  font-size: 15px;
+}
+
+p.userreviews{
+  color:#e0bf94;
+  font-size: 18px;
+  font-weight:bolder;
+  padding-left: 15px;
+
+}
+
+p.ratingreviews{
+  color:#e0bf94;
+  font-size: 17px;
+  font-weight:bold;
+text-align:left;
+}
+
+.main_section{
+  font-family: Helvetica, sans-serif;
+  padding: 10px;
+  text-align:left;
+  font-size: 18px;
+
+
+}
+
+.products{
+  display:flex;
+  justify-content: center;
+  padding: 10px;
+  text-align: center;
+}
+
+.product{
+display:flex;
+justify-content: center;
+border-radius: 20px;
+border: 7px solid #e0bf94;
+padding:15px;
+
+}
+
+.imagecontent{
+  padding: 30px;
+}
+
+.image{
+
+justify-content: center;
+padding: 50px;
+
+}
+
+.button{
+  padding-top: 30px;
+}
+
+.textcontent{
+padding: 20px;
+text-align:left;
+}
+
+.review{
+
+  padding: 10px;
+justify-content: center;
+
+}
+
+.thereview{
+display:flex;
+justify-content: center;
+padding:15px;
+
+}
+
+.indreviews{
+background-color:#0f0829;
+border-radius: 20px;
+  padding:15px;
+justify-content: center;
+
+}
+
+
+/*MODULO PAGO Y ESOO________________________________________________*/
+.modulo_pago{
+
+  border-radius: 10px;
+  border: 7px solid #e0bf94;
+  width: 400px;
+  padding: 20px;
+}
+
+
+.modulo_pago_images{
+margin: auto;
+
+
+text-align:left;
+
+}
+
+.sompadding{
+  padding: 20px;
+  color: #e0bf94;
+  font-size: 18px;
+
+}
+
+.data{
+
+padding: 8px;
+  margin-top: 10px;
+  width: 100%;
+height:35px;
+border-radius: 20px;
+border: 1px solid #e6e5e9;
+box-sizing: border-box;
+}
+
+.modulo_pago_mainbutton{
+padding-top: 20px;
+}

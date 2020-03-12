@@ -1,0 +1,25 @@
+<svg id="Grupo_573" data-name="Grupo 573" xmlns="http://www.w3.org/2000/svg" width="57.25" height="57.25" viewBox="0 0 57.25 57.25">
+  <g id="Grupo_569" data-name="Grupo 569" transform="translate(0)">
+    <ellipse id="Elipse_1" data-name="Elipse 1" cx="15.343" cy="15.343" rx="15.343" ry="15.343" transform="translate(13.282 13.282)" fill="#f2e9d3"/>
+    <g id="Grupo_568" data-name="Grupo 568">
+      <g id="Grupo_566" data-name="Grupo 566" transform="translate(26.106)">
+        <rect id="Rectángulo_15" data-name="Rectángulo 15" width="5.038" height="10.534" rx="2.519" fill="#f2e9d3"/>
+        <rect id="Rectángulo_16" data-name="Rectángulo 16" width="5.038" height="10.534" rx="2.519" transform="translate(0 46.716)" fill="#f2e9d3"/>
+      </g>
+      <g id="Grupo_567" data-name="Grupo 567" transform="translate(0 26.106)">
+        <rect id="Rectángulo_17" data-name="Rectángulo 17" width="5.038" height="10.534" rx="2.519" transform="translate(57.25 0) rotate(90)" fill="#f2e9d3"/>
+        <rect id="Rectángulo_18" data-name="Rectángulo 18" width="5.038" height="10.534" rx="2.519" transform="translate(10.534 0) rotate(90)" fill="#f2e9d3"/>
+      </g>
+    </g>
+  </g>
+  <g id="Grupo_572" data-name="Grupo 572" transform="translate(6.603 6.603)">
+    <g id="Grupo_570" data-name="Grupo 570" transform="translate(0 0)">
+      <rect id="Rectángulo_19" data-name="Rectángulo 19" width="5.038" height="10.534" rx="2.519" transform="matrix(0.707, -0.707, 0.707, 0.707, 0, 3.562)" fill="#f2e9d3"/>
+      <rect id="Rectángulo_20" data-name="Rectángulo 20" width="5.038" height="10.534" rx="2.519" transform="translate(33.033 36.596) rotate(-45)" fill="#f2e9d3"/>
+    </g>
+    <g id="Grupo_571" data-name="Grupo 571" transform="translate(0 0)">
+      <rect id="Rectángulo_21" data-name="Rectángulo 21" width="5.038" height="10.534" rx="2.519" transform="translate(40.482 0) rotate(45)" fill="#f2e9d3"/>
+      <rect id="Rectángulo_22" data-name="Rectángulo 22" width="5.038" height="10.534" rx="2.519" transform="translate(7.449 33.033) rotate(45)" fill="#f2e9d3"/>
+    </g>
+  </g>
+</svg>

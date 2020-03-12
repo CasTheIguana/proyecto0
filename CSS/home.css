@@ -1,0 +1,265 @@
+
+html,body{
+  background-image: url("../IMGS/BG1.svg");
+}
+
+/*NAV BAR_________________________________________________________________________*/
+    /*texts---------------------------*/
+
+      nav ul{
+
+        justify-content:center;
+        display:flex;
+
+        font-family: Candara,sans-serif;
+
+          text-align: center;
+          font-size: 25px;
+          font-weight:lighter;
+          color:#f2e9d3;
+
+      }
+
+      nav li{
+        padding-left: 10px;
+        padding-right: 310px;
+        list-style: none;
+
+      }
+
+      nav li a {
+        color:#fcf3f0;
+        text-decoration: none;
+      }
+
+      nav li a:hover {
+        color:#e0bf94;
+        text-decoration: none;
+
+      }
+
+      h1{
+        color: #f2e9d3;
+        padding: 30px;
+        text-align: center;
+        font-family: Candara,sans-serif;
+     text-decoration: none;
+          font-size: 80px;
+          font-weight:normal;
+      }
+
+/*Others----------------------------*/
+    .logoS{
+      padding: 20px;
+    }
+
+    .menuS{
+      align-items: flex-end;
+      justify-content:flex-end;
+      display:flex;
+      background-color: color:#fcf3f0;
+    }
+
+    nav{
+      padding: 10px;
+      display:flex;
+      justify-content: space-between;
+    }
+
+    .imgs_nav{
+
+      padding:10px;
+
+    }
+
+    .imgs_nav:hover{
+      border-radius: 10px;
+  border: 2px solid #e0bf94;
+
+    }
+
+/*PLANETASSSSSSSSSS_________________________________________________________________________*/
+
+.imgs_planeta1{
+  padding:10px;
+  padding-left: 60px;
+  padding-right: 55px;
+}
+
+.imgs_planeta2{
+  padding:10px;
+}
+
+.planetas1{
+padding:5px;
+  justify-content:center;
+  display:flex;
+}
+
+.planetas2{
+  padding:5px;
+  justify-content:space-between;
+  display:flex;
+}
+
+/*fin planetas*/
+
+/*BENEFICIOOOOOOOOOOOOOS_______________________________________________*/
+
+.beneficios{
+  padding:20px;
+  display: flex;
+  justify-content: center;
+
+}
+
+
+.beneficio{
+  padding:30px;
+}
+
+.content_beneficio{
+  text-align:center;
+  border-radius: 20px;
+border: 6.5px solid #e0bf94;
+padding:15px;
+}
+
+/*textos*/
+
+h3.titulosbeneficios{
+  padding-top: 40px;
+  color: #e0bf94;
+  font-family: Candara,sans-serif;
+text-decoration: none;
+    font-size: 25px;
+    font-weight:bold;
+
+}
+
+p.text_beneficio{
+    color:#5489dd;
+    font-family: Candara,sans-serif;
+  text-decoration: none;
+      font-size: 18px;
+
+}
+
+/*_______________________MENCIONES_____________________________________*/
+
+.starGroup1{
+  justify-content:space-around;
+  display:flex;
+}
+
+.starGroup2{
+  padding:5px;
+  justify-content:space-between;
+  display:flex;
+}
+
+.star1{
+    padding:10px;
+
+}
+.star2{
+
+  padding:10px;
+}
+.star3{
+
+  padding-left: 50px;
+}
+.star4{
+
+}
+.star5{
+
+  padding-right: 50px;
+}
+
+/*______________________________ Popup container_________________________________ */
+/* Popup container - can be anything you want */
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+  visibility: hidden;
+  width: 500px;
+background-color:#0f0829;
+  color: #e0bf94;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 20%;
+  left:150%;
+  margin-left: -10px;
+  padding:15px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 100%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+
+/*_______________________FOOOOOOTEEERRR_____________________________________________*/
+footer{
+  background-image:url("../IMGS/footer.svg");
+
+  padding: 20px;
+  margin-top: 20px;
+
+}
+
+.terms{
+  font-family: Candara,sans-serif;
+    text-align: center;
+    font-size: 18px;
+    font-weight:lighter;
+    color:#e0bf94;
+    text-decoration: none;
+}
+
+.logos{
+  padding-right: 30px;
+}
+
+.thefooter{
+  display: flex;
+  justify-content: space-between;
+}
